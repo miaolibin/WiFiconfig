@@ -1,3 +1,5 @@
 miaolibin test 202409217
 miaolibin test 20240917-1628
 miaolibin test 20240917-1642
+git reset HEAD
+git checkout
