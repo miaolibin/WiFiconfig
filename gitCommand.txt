@@ -6,7 +6,9 @@ git branch -a //查看所有分支
 git add .	//添加本地所有的修改
 git commit -m "message"  //merger 代码并注释
 git push origin feature-branch //将代码推到远端分支
+git push -u origin feature-branch //加-u是否有区别
 git push //?? push 与 push origin的区别？ main可以直接push，feature不能？
 git pull //拉取代码
 git merge branch //merge 其他分支代码
 没法添加空文件，需要添加子文件夹里的文件
+打patch与合并patch？
