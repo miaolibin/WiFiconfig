@@ -14,3 +14,6 @@ git branch -M main
 git remote add origin https://github.com/miaolibin/WiFiconfig.git
 git push -u origin main
 git tag
+git status
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
