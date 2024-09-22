@@ -1,3 +1,4 @@
 git checkout -b feature-branch
 git add .
 git commit -m "message"
+git push origin feature-branch
