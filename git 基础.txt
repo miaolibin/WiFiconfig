@@ -1,6 +1,7 @@
 用户名：scmlb@sohu.com
 miaolibin@sohu.com
 密码：libin1130
+libin0304
 
 1、git的安装：
 登录git-scm安装软件
