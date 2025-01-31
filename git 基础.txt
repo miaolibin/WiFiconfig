@@ -1,0 +1,4 @@
+用户名：scmlb@sohu.com
+密码：
+1、git的安装：
+登录git-scm安装软件
